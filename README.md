@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amira Shaikh</h1>
 <h3 align="center">Software engineer learning and implementing cool backend and frontend stuff</h3>
 
-- 🔭 I’m currently working on [Advent of Code](https://github.com/midnight-mira/AdventOfCode2024)
+- 🔭 I’m currently working on [Advent of Code 2024](https://github.com/midnight-mira/AdventOfCode2024)
 
 - 🌱 I’m currently learning **React, system design, backend development**
 
