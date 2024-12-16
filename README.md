@@ -7,13 +7,13 @@
 
 - 👯 I’m looking to collaborate on **System design and DSA mocks**
 
-- 💬 Ask me about **react, node, websocket, auth**
+- 💬 Ask me about **react, node, websocket, auth**, **Software Engineering**
 
 - 📫 How to reach me **amirashaikh2406@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/16PW95xyhxUPyZe9-BXRUQPohXANuCH8r/view?usp=sharing](https://drive.google.com/file/d/16PW95xyhxUPyZe9-BXRUQPohXANuCH8r/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: **amirashaikh2406@gmail.com** </h3>
 <p align="left">
 </p>
 
